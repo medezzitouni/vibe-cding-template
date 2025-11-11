@@ -122,8 +122,9 @@ Generate code, corrections, and refactorings that comply with the basic principl
 - Write tests for each controller and service.
 - Write end to end tests for each api module.
 - Add a admin/test method to each controller as a smoke test.
- 
 
-### Package Management
 
-- Use yarn as package manager.
+### Installation
+- use yarn as a package manager
+- create next project in the same folder as the .github folder
+- name it bowling-score-api
